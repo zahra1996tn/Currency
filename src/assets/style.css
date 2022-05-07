@@ -1,0 +1,120 @@
+body {
+    height: 750px;
+}
+
+select {
+    padding: 7px 16px;
+    border-radius: 6px;
+    outline: none;
+    font-size: large;
+}
+
+input {
+    padding: 8px 32px;
+    border-radius: 6px;
+    outline: none;
+}
+
+#amount-two {
+    width: 360px;
+    height: 47px;
+    border: none;
+    font-size: 27px;
+    margin: auto;
+    font-weight: 700;
+    text-align: center;
+}
+
+::placeholder {
+    margin: 10px auto;
+}
+
+#first-currency {
+    margin: 36px;
+}
+
+#input-one {
+    font-size: large;
+}
+
+option {
+    font-size: smaller;
+}
+
+.header {
+    background-color: rgb(6, 46, 156);
+    height: 330px;
+    margin-top: -22px;
+    margin-left: -7px;
+}
+
+#app1 {
+    border: 1px solid #eee;
+    width: 850px;
+    margin: -114px auto;
+    border-radius: 20px;
+    backdrop-filter: blur(5px);
+    /**/
+    border-radius: 33px;
+    background: #ffffff;
+    box-shadow: -5px 5px 13px #d6d6d6, 5px -5px 13px #ffffff;
+}
+
+.title {
+    padding: 11px 20px;
+    color: white;
+    margin-bottom: -34px;
+    padding-top: 23px;
+    font-family: Times New Roman;
+}
+
+.sub-title {
+    padding: 18px 20px;
+    color: white;
+    font-weight: 100;
+    font-family: Times New Roman;
+}
+
+.nav {
+    /* background-color: rgb(5, 39, 131); */
+    height: 56px;
+    background-image: linear-gradient(to top, rgb(6, 46, 156), rgb(4, 33, 112) 70%);
+}
+
+.nav img {
+    float: left;
+    padding: 17px 23px;
+    width: 35px;
+    height: 35px;
+}
+
+#app1 img {
+    width: 35px;
+    height: 35px;
+}
+
+#lastlyupdated {
+    color: rgb(6, 46, 156);
+    margin-top: 27px;
+    font-weight: 100;
+}
+
+#baseValue {
+    border: 1px solid #eee;
+    width: 396px;
+    margin: 10px auto;
+    padding: 12px;
+    border-radius: 6px;
+    background-color: rgb(6, 46, 156);
+    color: #fff;
+    font-weight: 400;
+}
+
+.title2 i {
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+.title2 {
+    font-family: Times New Roman;
+}
